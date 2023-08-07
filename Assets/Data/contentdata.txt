@@ -1,0 +1,125 @@
+{
+	"Answers": {
+		"Answer1": {
+		"title": "lightyellow",
+		"color": {
+		    "r": 252,
+		    "g": 255,
+		    "b": 105
+		    }
+		},
+		"Answer2" : {
+		"title": "darkred",
+		"color": {
+        		    "r": 128,
+        		    "g": 1,
+        		    "b": 14
+        		    }
+		},
+		"Answer3": {
+		"title": "lightblue",
+		"color": {
+        		    "r": 77,
+        		    "g": 219,
+        		    "b": 255
+        		    }
+		},
+		"Answer4": {
+		"title": "darkgreen",
+		"color": {
+        		    "r": 60,
+        		    "g": 130,
+        		    "b": 56
+        		    }
+		},
+		"Answer5": {
+		"title": "pink",
+		"color": {
+        		    "r": 201,
+        		    "g": 0,
+        		    "b": 124
+        		    }
+		},
+		"Answer6": {
+		"title": "purple",
+		"color": {
+        		    "r": 55,
+        		    "g": 44,
+        		    "b": 145
+        		    }
+		},
+		"Answer7" : {
+		"title": "orange",
+		"color": {
+        		    "r": 252,
+        		    "g": 163,
+        		    "b": 61
+        		    }
+		},
+		"Answer8" : {
+		"title": "black",
+		"color": {
+        		    "r": 0,
+        		    "g": 0,
+        		    "b": 0
+        		    }
+		},
+		"Answer9" : {
+		"title": "lightgreen",
+		"color": {
+        		    "r": 61,
+        		    "g": 255,
+        		    "b": 97
+        		    }
+		
+		},
+		"Answer10" : {
+		"title": "grey",
+		"color": {
+        		    "r": 82,
+        		    "g": 82,
+        		    "b": 82
+        		    }
+		},
+		"Answer11" : {
+		"title": "yellow",
+		"color": {
+        		    "r": 244,
+        		    "g": 255,
+        		    "b": 43
+        		    }
+		},
+		"Answer12" : {
+		"title": "red",
+		"color": {
+        		    "r": 255,
+        		    "g": 0,
+        		    "b": 55
+        		    }
+		},
+		"Answer13" : {
+		"title": "cyan",
+		"color": {
+        		    "r": 87,
+        		    "g": 247,
+        		    "b": 204
+        		    }
+		},
+		"Answer14" : {
+		"title": "lightpurple",
+		"color": {
+        		    "r": 226,
+        		    "g": 153,
+        		    "b": 255
+        		    }
+		},
+		"Answer15" : {
+		"title": "white",
+		"color": {
+        		    "r": 254,
+        		    "g": 250,
+        		    "b": 255
+        		    }
+		}
+	}
+}
